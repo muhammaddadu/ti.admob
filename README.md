@@ -1,4 +1,4 @@
-Titanium AdMob Module [![Build Status](https://travis-ci.org/appcelerator-modules/ti.admob.svg)](https://travis-ci.org/appcelerator-modules/ti.admob)
+Titanium AdMob Module [![Build Status](https://travis-ci.org/muhammaddadu/ti.admob.svg)](https://travis-ci.org/muhammaddadu/ti.admob)
 ============
 
 This is the AdMob Module for Titanium.
